@@ -15,8 +15,6 @@ t.pensize(5)
 
 t.shape("circle")
 
-t.color("black")
-
 t.color("green")
 
 t.forward(300)
