@@ -36,10 +36,9 @@ for i in range(2):
    t.right(90)
 
    t.forward(100)
-
+t.right(90)
 t.color("cyan")
 
-t.right(90)
 
 t.forward(300)
 
@@ -48,10 +47,10 @@ for i in range(2):
    t.right(90)
 
    t.forward(100)
-
+t.right(90)
 t.color("red")
 
-t.right(90)
+
 
 t.forward(300)
 
@@ -61,8 +60,7 @@ for i in range(2):
 
  t.forward(100)
 
-t.left(90)
-t.left(90)
+t.left(270)
 
 wn.exitonclick()
 
